@@ -4,7 +4,7 @@ div p{
     background-color: yellow;
     text-align: center;
 } 
-//other methods of achieving same styles using descendant combinators
+/* other methods of achieving same styles using descendant combinators */
 /* .container .text{
     font-size: 20px;
     color: red;
