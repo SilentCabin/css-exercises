@@ -32,6 +32,7 @@ img {
   display: flex;
   gap: 52px;
   justify-content: center;
+  max-width: 200px;
   /* flex-wrap: wrap; */
   /* outline: solid red; */
 } 
@@ -41,7 +42,7 @@ img {
   flex-direction: column;
   /* outline: solid red ; */
   align-items: center;
-  flex-basis: 200px;
+
 
 }
 
